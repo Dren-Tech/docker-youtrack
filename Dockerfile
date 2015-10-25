@@ -16,3 +16,6 @@ VOLUME /srv/database
 VOLUME /srv/backup
 
 EXPOSE 8080
+
+WORKDIR /opt/youtrack
+ENTRYPOINT /opt/youtrack/bin/youtrack.sh run

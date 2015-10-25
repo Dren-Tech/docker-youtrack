@@ -9,3 +9,4 @@ All notable changes to this project will be documented in this file.
 - Unpack Youtrack to /opt.
 - Exposed port 8080.
 - Volumes for backup and database.
+- Command to run as container.
