@@ -1,5 +1,5 @@
-IMAGE_NAME = drentech/java
-CONTAINER_NAME = java
+IMAGE_NAME = drentech/youtrack
+CONTAINER_NAME = youtrack
 
 default:
 	echo "Hello World!"
