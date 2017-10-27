@@ -1,6 +1,8 @@
 # docker-youtrack
 A Docker container with the Youtrack software from JetBrains.
 
+__Attention:__ This project is old and not supported.
+
 ## Using
 To use the image build it first:
 
